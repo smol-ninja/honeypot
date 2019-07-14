@@ -1,1 +1,1 @@
-docker build -t "it-begins-here" .
+docker build -t "honeycomb" .
